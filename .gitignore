@@ -1,1 +1,2 @@
-./mysql
+# Ignore arquivos do MySQL
+mysql/
